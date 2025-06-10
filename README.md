@@ -8,4 +8,4 @@ This paper develops a dynamic closed-form framework for analyzing OECD Pillar 2 
 
 ## Live Demo
 
-Try the interactive model: **[www.vincentfyt.com](https://www.vincentfyt.com)**
+Try the interactive testing model: **<a href="https://www.vincentfyt.com" target="_blank">www.vincentfyt.com</a>**
