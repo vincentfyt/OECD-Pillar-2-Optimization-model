@@ -1,6 +1,5 @@
 # OECD-Pillar-2-Optimization-model
 
-# OECD Pillar 2 Optimization Model
 
 ## Abstract
 
